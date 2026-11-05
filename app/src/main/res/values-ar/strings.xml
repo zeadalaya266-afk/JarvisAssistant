@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نيكسوس جارفيس</string>
+    <string name="app_subtitle">مساعد صوتي متقدم</string>
+    <string name="btn_start">تشغيل الخدمة في الخلفية</string>
+    <string name="btn_stop">إيقاف الخدمة</string>
+    <string name="btn_settings">إعدادات النظام</string>
+    <string name="status_ready">الحالة: جاهز</string>
+    <string name="status_running">الحالة: يستمع في الخلفية</string>
+    <string name="status_stopped">الحالة: متوقف</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="api_key_hint">مفتاح الذكاء الاصطناعي (API Key)</string>
+    <string name="btn_save">حفظ الإعدادات</string>
+    <string name="custom_commands_title">الأوامر المخصصة</string>
+    <string name="command_trigger_hint">الكلمة المفتاحية (مثال: افتح يوتيوب)</string>
+    <string name="command_action_hint">اسم الحزمة (مثال: com.google.android.youtube)</string>
+    <string name="btn_add_command">إضافة أمر</string>
+    <string name="btn_back">رجوع</string>
+    <string name="developer_name">تصميم وبرمجة\n[محمد زياد علايا]</string>
+</resources>

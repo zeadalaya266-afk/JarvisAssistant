@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus Jarvis</string>
+    <string name="app_subtitle">Advanced Voice Assistant</string>
+    <string name="btn_start">Start Background Service</string>
+    <string name="btn_stop">Stop Background Service</string>
+    <string name="btn_settings">System Settings</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_running">Status: Listening in Background</string>
+    <string name="status_stopped">Status: Stopped</string>
+    <string name="settings_title">Settings</string>
+    <string name="api_key_hint">Gemini API Key</string>
+    <string name="btn_save">Save Configuration</string>
+    <string name="custom_commands_title">Custom Commands</string>
+    <string name="command_trigger_hint">Voice Trigger (e.g., open youtube)</string>
+    <string name="command_action_hint">Package Name (e.g., com.google.android.youtube)</string>
+    <string name="btn_add_command">Add Command</string>
+    <string name="btn_back">Back</string>
+    <string name="developer_name">Designed and Programmed by\n[Mhamad zead alaya]</string>
+</resources>
